@@ -1,8 +1,4 @@
-#! /usr/bin/env python3
-
 import os
-
-test_Folder = "/home/nord/Desktop/test Cleaning FOlder"
 
 
 def clear():
